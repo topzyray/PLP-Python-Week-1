@@ -4,7 +4,7 @@ def main():
     age = input("How old are you? ")
     location = input("Where is your current location? ")
 
-    print(f"Hello {name}. Your are {age} years of age. How is the weather at {location} today?")
+    print(f"Hello {name}. Your are {age} years old. You live at {location}.")
 
 
 main()
